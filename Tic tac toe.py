@@ -20,6 +20,7 @@ def greetings():
     * horizontal,
     * vertical or
     * diagonal row
+    Press 1 - 9 on your keyboard
     =============================================
     Let's start the game
     """)
